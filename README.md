@@ -1,23 +1,39 @@
-# Becoming-a-Microsoft-Sentinel-Expert <img src="https://skillicons.dev/icons?i=azure" />:cloud:
+# Becoming-a-Microsoft-Sentinel-Expert  <img src="https://skillicons.dev/icons?i=azure" />
 
+# Introduction to Microsoft Sentinel
 ● Onboarded Azure VM to Log Analytics Workspace
+
 ● Created and understand Microsoft Sentinel resource
+
 ● Reviewed Data Connectors and enabled Syslog collection
 
+
+# Investigating Security Events
 ● Used Data Connector to collect Windows VM Security Events
+
 ● Created Analytics Rule to detect and create incidents based on Security Events
+
 ● Investigated incidents in Microsoft Sentinel
 
+
+# Automated Threat Response using Sentinel Playbooks
 ● Used Data Connector rules to collect Windows VM Security Events
+
 ● Created Playbook for automated response to Sentinel incidents
+
 ● Created Analytics Rule to trigger Playbook for remediation upon active alert detection
 
+# Advanced Threat Hunting in Microsoft Sentinel
 ● Used Hunting service in Microsoft Sentinel
+
 ● Understand Custom Queries and collect results queries
+
 ● Understand and create Bookmarks for query results
+
 ● Promoted bookmarks to create Incidents in Microsoft Sentinel
 
-Final Assessment
+
+# Final Assessment
 
 Azure Sentinel Incident Triage Challenge
 
@@ -35,14 +51,22 @@ provisioned VM for the lab.
 The solution you create must satisfy the following:
 
 ● Deploy the resource only in the West US region.
+
 ● You must complete the challenge using resources in the provided resource group.
+
 ● Create an Azure Sentinel resource leveraging the existing log analytics workspace
 provided in the lab
+
 ● Enable Data Connector for the Azure VM to collect Security Events using AMA by
 creating a Data Collection Rule
+
 ● Create a Scheduled Query Analytic Rule that queries the logs to detect the failed login
 attempts
+
 ● Simulate the password attack by using incorrect username/password combination for the
 Azure VM RDP access
+
 ● Investigate the incidents and close at least one incident to demonstrate the dashboard
 use case.
+
+
