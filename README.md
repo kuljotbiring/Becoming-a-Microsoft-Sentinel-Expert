@@ -69,4 +69,7 @@ Azure VM RDP access
 ● Investigate the incidents and close at least one incident to demonstrate the dashboard
 use case.
 
+[Becoming a Microsoft Sentinel Expert.pdf](https://github.com/kuljotbiring/Becoming-a-Microsoft-Sentinel-Expert/files/11933378/Becoming.a.Microsoft.Sentinel.Expert.pdf)
+
+
 
